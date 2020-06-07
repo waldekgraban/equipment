@@ -11,4 +11,3 @@
 Gdy aplikacji się uruchomi, należy się zarejestrować lub zalogować na przygotowanego wsześniej w seederach usera:
 - waldur@gmail.com
 - secret
-
