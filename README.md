@@ -1,3 +1,4 @@
+
 ## Instalacja
 
 - composer install
@@ -11,3 +12,6 @@
 Gdy aplikacji się uruchomi, należy się zarejestrować lub zalogować na przygotowanego wsześniej w seederach usera:
 - waldur@gmail.com
 - secret
+
+
+![review](https://github.com/waldekgraban/equipment/blob/master/image.png)
