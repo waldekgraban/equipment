@@ -3,6 +3,7 @@
 
 - composer install
 - cp .env.example .env
+- utworzyć bazę danych i podać jej nazwę w .env (domyślna nazwa "Laravel")
 - php artisan key:generate
 - npm install
 - php artisan migrate
